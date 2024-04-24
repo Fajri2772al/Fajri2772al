@@ -28,8 +28,9 @@ Halaman Laporan Bulanan<br>
 Cetak Laporan Bulanan<br>
 ![image](https://github.com/Fajri2772al/Fajri2772al/assets/167688686/a4fc502c-402b-4b5b-95dd-8fa515abdda2)<br>
 
+Di bawah ini Aplikasinya berbentuk zip
 
-
+[kasir (5).zip](https://github.com/Fajri2772al/Fajri2772al/files/15087761/kasir.5.zip)
 
 
 
