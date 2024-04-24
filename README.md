@@ -5,6 +5,8 @@ Kelompok 5<br>
 3.Rio Andika Putra<br>
 4.Putri Nazma Lutfia<br>
 5.Siti Mia Karmila<br>
+<br>
+<br>
 Aplikasi Kasir ini adalah aplikasi yang di rancang untuk melakukan transaksi pembayaran telah menjadi salah satu alat terpenting dalam membantu pengelolaan transaksi sehari hari, mulai dari toko kecil hingga rantai ritel besar.<br>
 Tampilan login<br>
 ![image](https://github.com/Fajri2772al/Fajri2772al/assets/167688686/f11f779a-9fbd-44da-8776-f7a87b234494)<br>
